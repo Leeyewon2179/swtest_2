@@ -3,4 +3,6 @@ Date : 2026.09.18
 
 Name : Yewon Lee
 
-Lecture : OpenSource Software
+Lecture : OpenSource Softeware
+
+This week : Git commands
